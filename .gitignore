@@ -1,0 +1,59 @@
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.project
+*.classpath
+*.settings/
+
+# Eclipse
+.metadata/
+bin/
+
+# PyCharm / JetBrains
+*.idea/
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Java
+*.class
+*.jar
+*.war
+
+# C / C++
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# JavaScript / Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SQL / DB files 
+*.sqlite
+*.db
+
+# Logs / misc
+*.log
